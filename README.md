@@ -1,1 +1,1 @@
-# week2-practic
+# week2-practice
